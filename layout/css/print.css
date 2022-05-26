@@ -1,0 +1,16 @@
+.social-media {
+  display: none;
+}
+
+.cv-section-title h1 small {
+  padding-bottom: 0;
+}
+
+.row {
+  padding: 1rem 0;
+}
+
+/*.period {*/
+  /*background-color: #fff !important;*/
+  /*color: #666;*/
+/*}*/
